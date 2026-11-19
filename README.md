@@ -78,6 +78,7 @@
 - [CrewAI Learning Resources](https://github.com/crewai-inc/crewai) – Documentation and guided tutorials.
 - [SmolAgents Tutorials](https://github.com/huggingface/smolagents) – Examples of code-first agent development.
 - [Learn Agentic Patterns](https://learnagenticpatterns.com/) – Interactive curriculum covering agentic AI design patterns, including planning, tool use, and multi-step workflows.
+- [Agentic Affairs — How AI Agents Use LLMs to Reason and Plan](https://agentic-affairs.com/how-ai-agents-use-llms-to-reason-and-plan/) – Technical guide to agent planning loops, decomposition, and tool-use reasoning.
 
 ## Related Awesome Lists
 
